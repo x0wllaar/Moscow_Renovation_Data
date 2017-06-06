@@ -16,4 +16,5 @@
 
 # Обратная связь?
 С мейнтенером по поводу данных: [@x0wllaar](https://telegram.me/x0wllaar)
+
 С мэрией по поводу реновации: [Электронная приемная](https://www.mos.ru/feedback/individual/)
